@@ -3,7 +3,7 @@
 </p>  
 
 <h4 align="center"> 
-	🚧  NLW Copa - Em Construção 🚧
+	🚧  NLW Copa - Finalizado 🚧
 </h4>
 
 ---
@@ -17,7 +17,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto sendo construído durante o **NLW - Next Level Week Copa** da [Rocketseat](https://lp.rocketseat.com.br/nlw) do dia 31 de outubro ao 04 de novembro, na trilha Explorer. 
+Projeto sendo construído durante o **NLW - Next Level Week Copa** da [Rocketseat](https://lp.rocketseat.com.br/nlw) do dia 31 de outubro ao 04 de novembro de 2022, na trilha Explorer. 
 Onde iremos desenvolver o calendário de Jogos da Copa 2022, uma página para acessar a agenda de jogos, com suas datas e horários, garantindo que não vai perder nenhuma partida.
 
 O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana. 🚀
@@ -36,8 +36,12 @@ O layout da aplicação está disponível no Figma:
   <img alt="NLWCopa" title="#NextLevelWeekcopa" src="./assets/6351b6d1e4fecfab1d0b185d_aplicacao-trilha-explorer.png" width="400px">
 </p>  
 
+## 🖥 Preview 
 
 
+<p align="center">
+  <img alt="preview" title="#previewnlwcopa" src="./assets/preview.png" width="400px">
+</p>  
 
 ---
 
